@@ -1,1 +1,2 @@
-# class44pro
+# collisionAlgorithm
+Algorithm to detect collision between two objects
